@@ -8,6 +8,7 @@ const Spinner = (props) => {
   );
 };
 
+// Adding default props
 Spinner.defaultProps = {
   message: "Loading !!!!",
 };
